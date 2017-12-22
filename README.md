@@ -1,25 +1,8 @@
-# ReduxSimpleStarter
+# React-Weather
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+Get a graphic trend of weather for the past 3-5 days of any given US city.
 
-### Getting Started
+React app using GoogleMap API, and OpenWeatherMap API
 
-There are two methods for getting started with this repo.
-
-#### Familiar with Git?
-Checkout this repo, install dependencies, then start the gulp process with the following:
-
-```
-> git clone https://github.com/StephenGrider/ReduxSimpleStarter.git
-> cd ReduxSimpleStarter
-> npm install
-> npm start
-```
-
-#### Not Familiar with Git?
-Click [here](https://github.com/StephenGrider/ReactStarter/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
-
-```
-> npm install
-> npm start
-```
+credit to Stephen Grider - Modern React with ReduxPromise
+[https://www.udemy.com/react-redux/learn/v4/overview]
